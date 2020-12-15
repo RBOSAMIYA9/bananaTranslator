@@ -25,7 +25,7 @@ textarea {
     height: 10vh;
     width: 60%;
     margin: 3rem;
-    padding: 1rem;
+    /* padding: 1rem; */
     border: 2px solid black;
     border-radius: 1rem;
 }
