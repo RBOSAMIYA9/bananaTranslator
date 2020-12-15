@@ -1,10 +1,9 @@
-# demo Readme
+# Banana Translator
 
-lorem ipsum de itore
+This is banana translator.Enter your text in english and get it into banana language.
 
-I know following things:
+Api used for this website
 
-1. js
-1. js
-3. html
-4. css
+https://api.funtranslations.com/translate/minion.json
+
+This is funtranlations api.If you are trying this code out then change the api url to test url (because funtranslation api only allow 5 req per hour).
